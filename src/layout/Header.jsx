@@ -6,7 +6,7 @@ const Header = () => {
     <nav className="">
       <div className="nav-wrapper">
         <div className="container">
-          <a href="sass.html" className="brand-logo left">
+          <a href="/" className="brand-logo left">
             Meal Shop
           </a>
         </div>
